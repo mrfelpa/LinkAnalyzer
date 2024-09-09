@@ -1,0 +1,6 @@
+requests 
+BeautifulSoup 
+scikit-learn 
+click 
+rich 
+textblob 
