@@ -20,7 +20,7 @@ Clone this repository:
         git clone https://github.com/mrfelpa/LinkAnalyzer.git
         
 
-        cd news-link-analyzer
+        cd linkanalyzer
 
 - Install dependencies:
 
@@ -30,7 +30,7 @@ Clone this repository:
 
 - To analyze a news link, run the following command:
 
-        python linkanalyzer.py --url https://exemplo.com/news
+        python linkanalyzer.py --url https://example.com/news
 
   - You can also run the script without arguments, and it will request the URL interactively:
 
